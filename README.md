@@ -30,3 +30,5 @@ Since this is a **frontend-only project**, the API key is added directly in the 
 3. Replace the placeholder:
    ```js
    const API_KEY = "YOUR_OPENWEATHER_API_KEY";
+
+![image alt](https://github.com/mi-ganesh/Weather-app/blob/32b427a3256b7f0c642e633e45f1834e05bde28c/SS-Weather-Home.png)
